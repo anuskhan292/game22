@@ -1,0 +1,35 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    /* font-family: 'Gluten', cursive; */
+    font-family: 'Grechen Fuemen', cursive;
+    background-image: url("back.jpg");
+}
+.h1{
+    margin-top: 50px;
+    text-align: center;
+    font-family: cursive;
+    font-size: 70px;
+    color:rgb(150, 131, 131) ;
+}
+.email-box{
+    text-align: center;
+    margin-top: 70px;
+
+}
+.email{
+    background: transparent;
+    margin-top: 20px;
+    width: 250px;
+    border: none;
+   border-bottom: 1px solid green;
+}
+.btn-success{
+    margin-top: 10px;
+}
+.signup-box{
+    text-align: center;
+    margin-top: 70px;
+
+}
+
